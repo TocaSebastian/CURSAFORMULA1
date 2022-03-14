@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Cursa>
+    <pilot>
+        <nume>Hamilton</nume>
+        <nume_echipa>Mercedes</nume_echipa>
+        <numar_participare>5</numar_participare>
+    </pilot>
+    <pilot>
+        <nume>Verstappen</nume>
+        <nume_echipa>RedBull</nume_echipa>
+        <numar_participare>2</numar_participare>
+     </pilot>
+</Cursa>
